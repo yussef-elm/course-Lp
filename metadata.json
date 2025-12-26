@@ -1,0 +1,7 @@
+{
+  "name": "Sbitis Acquisition - The Elite Aesthetic System",
+  "description": "A high-end landing page for aesthetic center owners to master client acquisition without the need for expensive agencies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
